@@ -61,5 +61,5 @@ This project is implemented in a single file 'main.py' which includes:
 
 ## Contact 
 For questions or additional information, please reach out to me: 
-- Email: hpatel85@icloud.com
+- Email: hjpat56@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hriday-patel-299195249/
