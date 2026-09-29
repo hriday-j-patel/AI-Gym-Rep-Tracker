@@ -31,8 +31,6 @@ The AI Gym Rep Tracker solves these issues by:
 - git clone https://github.com/HridayPatel22/AI-Gym-Rep-Tracker.git
 3. Navigate to the Project Directory:
 - cd AI-Gym-Rep-Tracker
-4. Install dependencies:
-- pip install -r requirements.txt
 
 ## Usage 
 1. Run the Script:
